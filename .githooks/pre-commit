@@ -1,0 +1,5 @@
+#!/bin/sh
+# Roda a checagem de conteúdo sensível antes de cada commit.
+set -e
+cd "$(git rev-parse --show-toplevel)"
+exec python3 scripts/checar.py

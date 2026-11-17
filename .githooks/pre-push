@@ -1,0 +1,5 @@
+#!/bin/sh
+# Confere de novo antes de subir, para pegar commit que chegou de outro lugar.
+set -e
+cd "$(git rev-parse --show-toplevel)"
+exec python3 scripts/checar.py
