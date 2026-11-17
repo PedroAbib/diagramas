@@ -1,0 +1,13 @@
+name: checar
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  conteudo:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Recusar conteúdo sensível
+        run: python3 scripts/checar.py
