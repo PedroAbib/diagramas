@@ -6,6 +6,7 @@ precisar baixar nem importar arquivo.
 | Diagrama | Abrir |
 | --- | --- |
 | Hub interno, três cenários | [Excalidraw](https://excalidraw.com/#url=https%3A%2F%2Fraw.githubusercontent.com%2FPedroAbib%2Fdiagramas%2Fmain%2Fhub-interno-cenarios.excalidraw) |
+| Prancheta, banco e escalabilidade | [Excalidraw](https://excalidraw.com/#url=https%3A%2F%2Fraw.githubusercontent.com%2FPedroAbib%2Fdiagramas%2Fmain%2Fprancheta-banco-escala.excalidraw) |
 
 ## Como um diagrama entra aqui
 
